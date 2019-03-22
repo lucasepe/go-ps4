@@ -18,11 +18,11 @@ var (
 )
 
 /**
- * NIX: CGO_ENABLED=0 GOOS=linux go build -o ps4-games.exe -a -ldflags '-extldflags "-static" -X main.version=0.5.0'
+ * NIX: CGO_ENABLED=0 GOOS=linux go build -a -ldflags '-extldflags "-static" -X main.version=0.5.0'
  *
  * WIN (powershell):
  * $env:CGO_ENABLED="0"
- * go build -o ps4-games -ldflags "-X main.version=0.5.0"
+ * go build -ldflags "-X main.version=0.5.0"
  */
 func main() {
 
