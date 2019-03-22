@@ -11,10 +11,7 @@ This tool use [Colly](https://github.com/gocolly/colly) the Lightning Fast and E
 
 ```shell
 $ go-ps4 -h
-```
-
-```shell
-$ PS Store CLI (v.0.5.0)
+PS Store CLI (v.0.5.0)
 Usage: go-ps4 [OPTIONS] [Game Title]
   -addons
         show also extra contents
