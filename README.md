@@ -1,8 +1,15 @@
 # Go PS4
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/lucasepe/go-ps4)](https://goreportcard.com/report/github.com/lucasepe/go-ps4) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/gojp/goreportcard/blob/master/LICENSE)
+
 > Search the Playstation Store for your favorite PS4 games using the command line.
 
 This tool use [Colly](https://github.com/gocolly/colly) the Lightning Fast and Elegant Scraping Framework for Gophers
+
+
+- Free [open source](https://github.com/lucasepe/go-ps4) software
+- Works on [Linux](https://github.com/lucasepe/go-ps4/releases/download/v1.0.0/ps4-linux-amd64), [Mac OSX](https://github.com/lucasepe/go-ps4/releases/download/v1.0.0/ps4-darwin-amd64), [Windows](https://github.com/lucasepe/go-ps4/releases/download/v1.0.0/ps4-windows-amd64.exe)
+- Just a single portable binary file
 
 
 ## How to use
