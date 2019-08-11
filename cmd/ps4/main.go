@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	ps "github.com/lucasepe/playstation"
-	"github.com/lucasepe/playstation/utils"
+	ps "github.com/lucasepe/go-ps4"
+	"github.com/lucasepe/go-ps4/utils"
 )
 
 var (
