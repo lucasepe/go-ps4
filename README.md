@@ -18,14 +18,14 @@ This tool use [Colly](https://github.com/gocolly/colly) the Lightning Fast and E
 
 ```shell
 $ ps4 -h
-PS Store CLI (v.0.5.0)
+PS Store CLI (v.0.5.1)
 Usage: go-ps4 [OPTIONS] [Game Title]
   -addons
         show also extra contents
   -free
         show only free titles
-  -lang string
-        language (it, en) (default "it")
+  -region string
+        store region (it, en, at, de) (default "it" - used also for language)
   -weekly-deals
         show only weekly deals titles
 ```
